@@ -1,4 +1,6 @@
 # Social-Network-Analysis
+![example img](https://github.com/user-attachments/assets/186a7622-fc0f-4698-86e1-a76e06c04474)
+
 
 ## Objetivo/Objective:
 Análisis de una red de amistades expresadas en un dataset a través de la libreria Networkx de Pyhton.  
